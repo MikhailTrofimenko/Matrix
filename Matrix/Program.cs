@@ -11,7 +11,7 @@ namespace Matrix
 
             Random rand;
 
-            const string litters = "0123456789"; //символы которые бужут на консоли
+            const string litters = "0123456789$"; //символы которые бужут на консоли
 
             public int Colunm { get; set; } //обработчик колонки(колонка)
 
